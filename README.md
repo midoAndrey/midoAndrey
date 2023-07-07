@@ -6,6 +6,7 @@
 ### 4. https://midoandrey.github.io/color-palitra/
 ### 5. https://midoandrey.github.io/loadingSpinner/
 ### 6. https://midoandrey.github.io/DrawingApp/
+### 7. https://midoandrey.github.io/InternetSpeedTest/
 <!--
 **midoAndrey/midoAndrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
