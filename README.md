@@ -1,5 +1,5 @@
 ### Hi there 👋
-💻 This is my projects
+💻 This is my projects:
 ### 1.  https://midoandrey.github.io/breakoutGame/          
 ### 2.  https://midoandrey.github.io/ReactMemoryGame/            
 ### 3.  https://midoandrey.github.io/translator/
